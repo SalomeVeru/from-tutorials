@@ -219,3 +219,16 @@ width:fit-content;
     top:unset;
     bottom: 5px;
 }
+/* --------------main content------------- */
+
+.story-gallery{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.story{
+    flex-basis: 18%;
+    padding-top: 32%;
+    position: relative;
+    background-image: url(src/img/status-1.png)
+}
