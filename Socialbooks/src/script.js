@@ -5,7 +5,7 @@ var settingsmenu = document.querySelector(".settings-menu");
 var darkBtn = document.getElementById("dark-btn");
 
 function settingsMenuToggle(){
-    settingsmenu.classList.toggle("settings-menu-height");
+    settingsmenu.classList.toggle("settings-menu-height");}
 // } აქ წერტილით შეიძლება იმიტომ არაა ეს კლასნეიმი, რომ მხოლოდ css_ში გვაქვს?
 
 // ------------toggle ---------------
